@@ -1,4 +1,8 @@
 # Zombie-Game
+## Game Engine: Unity 2018.4.6f1
+## Game Source Code: https://drive.google.com/file/d/1GeVT0hFBIkkR_tkZ-sYO0BMYB2zZEm9v/view?usp=sharing
+## Game Download: https://drive.google.com/file/d/1YBUGAkNdn4z3VU0gxmX9NSqSmdqGvDVT/view?usp=sharing
+## Demo Video: https://www.youtube.com/watch?v=4mIdjkdrzdw
 
 ### 關卡設計:
 設計了兩個關卡，第一關是近戰敵人，第二關是遠戰敵人。場景是利用免費素材搭建，有障礙物，跳上去可以躲開敵人的攻擊。
